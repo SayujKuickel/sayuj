@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+	<title>sayuj</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 12px;fill: #d5b63e;font-weight: 700;font-family: "Khula-Bold", "Khula" } 
+	</style>
+	<text id="स" style="transform: matrix(92.623,0,0,92.623,167.792,957.104)" >
+		<tspan x="0" y="0" class="t0">स
+</tspan>
+	</text>
+</svg>

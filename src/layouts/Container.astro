@@ -1,0 +1,11 @@
+---
+interface Props {
+  isCenter?: boolean;
+}
+
+const { isCenter = true, ...rest }: Props = Astro.props;
+---
+
+<div class={`container-sm ${isCenter ? "mx-auto" : ""} px-4`} {...rest}>
+  <slot />
+</div>
